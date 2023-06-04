@@ -8,6 +8,7 @@ int main(){
     for(int i=0;i<n;i++){
         for(int j=i+1;j<n;j++){
            
+            //for finding answer
             
             if(arr[i]+arr[j]==target){
                     cout<<"Yes"<<endl;
